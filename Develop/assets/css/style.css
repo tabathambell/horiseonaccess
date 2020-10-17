@@ -69,7 +69,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.contents {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -102,7 +102,7 @@ p {
     max-width: 150px;
 }
 
-.description {
+.content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -111,11 +111,11 @@ p {
     color: #ffffff;
 }
 
-.description img {
+.content img {
     max-height: 200px;
 }
 
-.description h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
