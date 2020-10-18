@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* for the top bar navigation above image header */
+
 header { /* removed dot from the previous div tag */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,8 @@ p {
     font-size: 16px;
 }
 
+/* code for top bar image */
+
 .hero {
     height: 800px;
     position: relative; /* changed from text align to position */
@@ -68,6 +72,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* styles for main feature area */
 
 .contents {
     width: 75%;
@@ -92,6 +98,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* styles for sidebar */
 
 .benefits { 
     margin-right: 20px;
